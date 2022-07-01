@@ -1,9 +1,16 @@
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anni_Maan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA) 
+<h1 align="center"> Hello 👋🏻, I'm Anni Maan </br> 
+</h1>
+<p align="center">  I'm a <b>Blockchain Developer</b> working in an Investment Bank, USA. I love exploring new technologies and content creation.</p>
+
+<p align="center">
+ <a href="https://twitter.com/Anni_Maan" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" style="vertical-align:center" /></a>
+</p>
 
 # 💫 About Me:
-My name is Anni Maan and I am the founder of [Codies Alert](https://codiesalert.com), which offers FREE courses on Blockchain and Web3. If you're interested in learning blockchain in depth, check out my [Advanced Blockchain course](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/), where you'll discover how to build a blockchain from scratch in Python.
+I am the founder of [Codies Alert](https://codiesalert.com), which offers FREE courses on Blockchain and Web3. I'm helping people Break into Blockchain and WEB3 by providing both FREE and Paid courses. If you're interested in learning blockchain in depth, check out my [Advanced Blockchain course](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/), where you'll discover how to build a blockchain from scratch in Python. **JavaScript** Blockchain Course will be available soon but complete code with instructions in available in my github repository. 
 
-If you want to learn how to build a blockchain from scratch in javaScript, check out my github repository.
+
 
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
