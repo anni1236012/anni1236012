@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-I am the founder of [Codies Alert](https://codiesalert.com), which offers FREE courses on Blockchain and Web3. I'm helping people Break into Blockchain and WEB3 by providing both FREE and Paid courses. If you're interested in learning blockchain in depth, check out my [Advanced Blockchain course](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/), where you'll discover how to build a blockchain from scratch in Python. **JavaScript** Blockchain Course will be available soon but complete code with instructions in available in my github repository. 
+I am the founder of [Codies Alert](https://codiesalert.com), which offers FREE courses on Blockchain and Web3. I'm helping people Break into Blockchain and WEB3 by providing both FREE and Paid courses. If you're interested in learning blockchain in depth, check out my [Advanced Blockchain course](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/), where you'll discover how to build a blockchain from scratch in Python. **JavaScript** Blockchain Course will be available soon but complete code with instructions is available in my github repository. 
 
 
 
