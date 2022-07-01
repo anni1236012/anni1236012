@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anni_Maan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Anni_Maan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA) 
 
 # 💫 About Me:
 My name is Anni Maan and I am the founder of [Codies Alert](https://codiesalert.com), which offers FREE courses on Blockchain and Web3. If you're interested in learning blockchain in depth, check out my [Advanced Blockchain course](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/), where you'll discover how to build a blockchain from scratch in Python.
