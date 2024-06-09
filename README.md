@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋🏻, I'm Anni Maan </br> 
 </h1>
-<p align="center">  I'm a <b>Blockchain Developer</b> working in an Investment Bank, USA. I love exploring new technologies and content creation.</p>
+<p align="center">  I'm a <b>Blockchain Developer and Fullstack developer</b>. I love exploring new technologies and content creation.</p>
 
 <p align="center">
  <a href="https://twitter.com/Anni_Maan" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
