@@ -8,13 +8,12 @@
 ---
 
 # 💫 About Me  
-- Creator of [**Codies Alert**](https://codiesalert.com) — a platform where I share developer insights and document my learning journey.  
 - Built a **full Bitcoin implementation in Python** — including:  
   - **Elliptic Curve Cryptography (ECC):** for generating public/private keys, signing, and validating transactions.  
   - **Peer-to-Peer Network:** decentralized node communication and transaction propagation.  
   - **Multiprocessing:** leveraging all CPU cores for parallel validation and mining.  
   - **Consensus & Transaction Validation:** robust mechanisms to ensure security and correctness.  
-- Published an [**Advanced Blockchain Course**](https://www.codiesalert.com/courses/advanced-bitcoin-blockchain-course-in-python/) teaching developers how to build a blockchain from scratch in Python.  
+- [**Blockchain Implementation from Scratch**](https://github.com/anni1236012/Blockchain-Implementation-in-Python-from-Scratch) in python
 - Exploring **Generative AI, vector databases, and embeddings** for next-generation financial analytics.  
 - Strong background in **investment banking tech (listed derivatives, FIS GMI, AS400)**, now fully focused on modern **Python ecosystems**.  
 
