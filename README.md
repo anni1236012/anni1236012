@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋🏻, I'm Manpreet </br></h1>
+<h1 align="center"> Hello 👋🏻, I'm Anni Maan </br></h1>
 
 <p align="center">
   <b>Python Engineer</b> passionate about building scalable systems, trading infrastructure, and blockchain from scratch.  
